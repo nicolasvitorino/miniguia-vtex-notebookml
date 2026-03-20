@@ -16,66 +16,9 @@ A proposta é utilizar **Inteligência Artificial como ferramenta de aprendizado
 
 ---
 
-## 📚 Curadoria de Fontes
+## 🔗 Acesso ao NotebookLM
 
-### 📄 Documentação Oficial
-
-- https://developers.vtex.com/
-- https://help.vtex.com/
-- https://vtex.com/pt-br
-- https://learn.vtex.com/
-- https://developers.vtex.com/docs/guides/faststore
-- https://developers.vtex.com/docs/guides/faststore/components-index
-- https://v1.faststore.dev/docs
-- https://github.com/vtex/faststore
-
----
-
-### 🎥 Vídeos Utilizados
-
-- https://www.youtube.com/watch?v=OIPQmY4fyDo  
-- https://www.youtube.com/watch?v=tUNk5g9ZWss  
-- https://www.youtube.com/watch?v=4hHDbIXAcKc  
-- https://www.youtube.com/watch?v=gzeY3CaS-R8  
-- https://www.youtube.com/watch?v=ijUH0yihc2I  
-- https://www.youtube.com/watch?v=YFajPsTvZr8  
-- https://www.youtube.com/watch?v=Ju_ZyUaDWbA  
-- https://www.youtube.com/watch?v=N8AUADhwMh8  
-
-#### 📎 Materiais Complementares
-
-- https://www.youtube.com/watch?v=mZ4Iawo5hrQ  
-- https://www.youtube.com/watch?v=OK6uA6okPsM  
-- https://www.youtube.com/watch?v=aMS6w98-uFQ  
-- https://www.youtube.com/watch?v=xOUQI_BKoqs  
-- https://www.youtube.com/watch?v=dPpdaRkHbdE  
-- https://www.youtube.com/watch?v=kTN9hTw9R8w  
-- https://www.youtube.com/watch?v=bM0WesT2fhI  
-- https://www.youtube.com/watch?v=gNa5PtWzOB0  
-- https://www.youtube.com/watch?v=-9QnvqF8-N0  
-- https://www.youtube.com/watch?v=sbRf_je7kko  
-- https://www.youtube.com/watch?v=YaHvqTrPOe8  
-- https://www.youtube.com/watch?v=IioGpzBYy90  
-- https://www.youtube.com/watch?v=Rg5scE7DDoA  
-- https://www.youtube.com/watch?v=0EabxuTWbtA  
-- https://www.youtube.com/watch?v=g1JfXuPeGh8  
-- https://www.youtube.com/watch?v=LaLaWfOTRD0  
-- https://www.youtube.com/watch?v=pNMfNrTYDg4  
-- https://www.youtube.com/watch?v=oozzoHd8MOM  
-- https://www.youtube.com/watch?v=GaPWX8ob-tc  
-- https://www.youtube.com/watch?v=TUT522hvqeM  
-- https://www.youtube.com/watch?v=jqRHv2GLyiw  
-- https://www.youtube.com/watch?v=ut3Ho0yO45I  
-- https://www.youtube.com/watch?v=0iYZX9I1Dpc  
-- https://www.youtube.com/watch?v=y30HLQZaKVQ  
-- https://www.youtube.com/watch?v=R6fzZ6w7k9s  
-- https://www.youtube.com/watch?v=ApzvWnKBz1Q  
-- https://www.youtube.com/watch?v=Gl7wAmtOoZs  
-- https://www.youtube.com/watch?v=laLp2T1wr-A  
-- https://www.youtube.com/watch?v=OqkI9Tl9ME0  
-- https://www.youtube.com/watch?v=3Byvdd9-HQs  
-- https://www.youtube.com/watch?v=oysZyQTDhvs  
-- https://www.youtube.com/watch?v=2CO17hD8xKQ  
+https://notebooklm.google.com/notebook/2ee3bd3d-02f4-4eac-82f7-f7fbf49b858e
 
 ---
 
@@ -193,14 +136,71 @@ O uso do NotebookLM aliado à documentação oficial da VTEX permitiu criar um m
 
 ---
 
-## 🔗 Acesso ao NotebookLM
-
-https://notebooklm.google.com/notebook/2ee3bd3d-02f4-4eac-82f7-f7fbf49b858e
-
----
-
 ## ⚠️ Importante
 
 Embora o NotebookLM abstraia a implementação técnica do RAG, este projeto foca na aplicação prática do conceito, com ênfase em curadoria de dados, engenharia de prompts e análise de respostas.
+
+---
+
+## 📚 Curadoria de Fontes
+
+### 📄 Documentação Oficial
+
+- https://developers.vtex.com/
+- https://help.vtex.com/
+- https://vtex.com/pt-br
+- https://learn.vtex.com/
+- https://developers.vtex.com/docs/guides/faststore
+- https://developers.vtex.com/docs/guides/faststore/components-index
+- https://v1.faststore.dev/docs
+- https://github.com/vtex/faststore
+
+---
+
+### 🎥 Vídeos Utilizados
+
+- https://www.youtube.com/watch?v=OIPQmY4fyDo  
+- https://www.youtube.com/watch?v=tUNk5g9ZWss  
+- https://www.youtube.com/watch?v=4hHDbIXAcKc  
+- https://www.youtube.com/watch?v=gzeY3CaS-R8  
+- https://www.youtube.com/watch?v=ijUH0yihc2I  
+- https://www.youtube.com/watch?v=YFajPsTvZr8  
+- https://www.youtube.com/watch?v=Ju_ZyUaDWbA  
+- https://www.youtube.com/watch?v=N8AUADhwMh8  
+
+#### 📎 Materiais Complementares
+
+- https://www.youtube.com/watch?v=mZ4Iawo5hrQ  
+- https://www.youtube.com/watch?v=OK6uA6okPsM  
+- https://www.youtube.com/watch?v=aMS6w98-uFQ  
+- https://www.youtube.com/watch?v=xOUQI_BKoqs  
+- https://www.youtube.com/watch?v=dPpdaRkHbdE  
+- https://www.youtube.com/watch?v=kTN9hTw9R8w  
+- https://www.youtube.com/watch?v=bM0WesT2fhI  
+- https://www.youtube.com/watch?v=gNa5PtWzOB0  
+- https://www.youtube.com/watch?v=-9QnvqF8-N0  
+- https://www.youtube.com/watch?v=sbRf_je7kko  
+- https://www.youtube.com/watch?v=YaHvqTrPOe8  
+- https://www.youtube.com/watch?v=IioGpzBYy90  
+- https://www.youtube.com/watch?v=Rg5scE7DDoA  
+- https://www.youtube.com/watch?v=0EabxuTWbtA  
+- https://www.youtube.com/watch?v=g1JfXuPeGh8  
+- https://www.youtube.com/watch?v=LaLaWfOTRD0  
+- https://www.youtube.com/watch?v=pNMfNrTYDg4  
+- https://www.youtube.com/watch?v=oozzoHd8MOM  
+- https://www.youtube.com/watch?v=GaPWX8ob-tc  
+- https://www.youtube.com/watch?v=TUT522hvqeM  
+- https://www.youtube.com/watch?v=jqRHv2GLyiw  
+- https://www.youtube.com/watch?v=ut3Ho0yO45I  
+- https://www.youtube.com/watch?v=0iYZX9I1Dpc  
+- https://www.youtube.com/watch?v=y30HLQZaKVQ  
+- https://www.youtube.com/watch?v=R6fzZ6w7k9s  
+- https://www.youtube.com/watch?v=ApzvWnKBz1Q  
+- https://www.youtube.com/watch?v=Gl7wAmtOoZs  
+- https://www.youtube.com/watch?v=laLp2T1wr-A  
+- https://www.youtube.com/watch?v=OqkI9Tl9ME0  
+- https://www.youtube.com/watch?v=3Byvdd9-HQs  
+- https://www.youtube.com/watch?v=oysZyQTDhvs  
+- https://www.youtube.com/watch?v=2CO17hD8xKQ  
 
 ---
